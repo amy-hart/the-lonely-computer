@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Lonely Computer</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+	</head>
+	<body>	
+    <div id="wrapper">
+      <div id="background_elements">
+        <div id="sky">
+        </div>
+        <div id="grid">
+        </div>  
+        <div id="scanlines">
+        </div>  
+      </div><!-- End background elements -->  
+      <div id="edgar_container">
+        <div id="edgar_outer">
+          <div id="edgar_inner">
+            <div id="screen_outer">
+              <div id="screen" class="default">
+                <div class="inner">
+                  <span class="eye left"></span>
+                  <span class="eye right"></span>
+                  <span class="mouth"></span>
+                </div><!-- End screen_inner --> 
+              </div><!-- End screen -->
+            </div><!-- End screen_outer -->  
+          </div><!-- End edgar_inner -->  
+        </div><!-- End edgar_outer --> 
+      </div><!-- End edgar_container -->  
+      <div id="foreground_elements">
+        <div id="foreground_inner">  
+          <h1>Edgar<br/>The Lonely Computer</h1>
+          <div class="debug">
+            <div class="debug_button">
+              <p>Debug JSON results</p>
+              <span>&#9644; &#9723; &#10006;</span>
+            </div>
+            <div class="debug_content">
+              <textarea id="response" cols="40" rows="20"></textarea>
+            </div>
+          </div>
+          <div id="speech_console">
+            <div id="terminal_window">
+              <div class="window_heading">
+                <p>edgar@thelonelycomputer:</p><span>&#9644; &#9723; &#10006;</span>
+              </div>
+              <input id="speech-input" type="text" placeholder="Type a message and press enter..." value="" />
+              <button id="record-button" class="button">Speak</button>
+              <div id="spokenResponse" class="spoken-response">
+                <div class="spoken-response_text"></div>
+              </div>
+            </div><!-- End terminal_window -->  
+          </div><!-- End speech_console -->  
+        </div><!-- End foreground_inner -->  
+      </div>  <!-- End foreground_elements-->
+    </div><!-- End wrapper -->  
+  </body>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="js/scripts.js"></script>
+</html>
+
