@@ -1,9 +1,9 @@
 # The Lonely Computer
-Say 'Hello' to Edgar, the lonely computer. A chatbot experiment inspired by the 80's movie 'Electric Dreams':
+Say 'Hello' to Edgar, the lonely computer. A chatbot experiment inspired by the 80's movie 'Electric Dreams'.
 
 Live demo: https://the-lonely-computer.herokuapp.com/index.html
 
-Please note: Edgar prefers a desktop environment.
+Please note: Edgar prefers a Chrome desktop environment.
 
 # Interacting with Edgar
 
