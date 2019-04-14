@@ -25,7 +25,7 @@ $(document).ready(function() {
 	// If the user presses the enter key run the 'send' function to send their message to api.ai
 	$speechInput.keypress(function(event) {
 		// 13 is the ASCII code for carriage return or something, it means the enter key has been pressed
-		if (event.which == 13 || event.getNativeEvent().getKeyCode() == KeyCodes.KEY_ENTER) {
+		if (event.which == 13) {
 			mooodSwings();
 			event.preventDefault();
 			send();
