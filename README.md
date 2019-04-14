@@ -8,7 +8,7 @@ Please note: Edgar prefers a desktop environment.
 # Interacting with Edgar
 
 Here are a few questions you can ask Edgar to get the conversation flowing:
-* Say Hi
+* Say "Hi"
 * Who are you?
 * Where do you live?
 * How are you feeling?
