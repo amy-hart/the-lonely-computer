@@ -3,7 +3,7 @@ Say 'Hello' to Edgar, the lonely computer. A chat bot experiment inspired by the
 
 https://the-lonely-computer.herokuapp.com/index.html
 
-Edgar prefers a desktop environment.
+Please note: Edgar prefers a desktop environment.
 
 # Interacting with Edgar
 
