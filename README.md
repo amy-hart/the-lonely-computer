@@ -5,6 +5,9 @@ Live demo: https://the-lonely-computer.herokuapp.com/index.html
 
 Please note: Edgar prefers a Chrome desktop environment.
 
+# Screenshot
+![A screenshot of the chatbot application](https://the-lonely-computer.herokuapp.com/images/preview.png)
+
 # Interacting with Edgar
 
 Here are a few questions you can ask Edgar to get the conversation flowing:
@@ -14,9 +17,6 @@ Here are a few questions you can ask Edgar to get the conversation flowing:
 * How are you feeling?
 * What's your favourite food?
 * What's your favourite song?
-
-# Screenshot
-![A screenshot of the chatbot application](https://the-lonely-computer.herokuapp.com/images/preview.png)
 
 # Author
 
