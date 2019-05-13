@@ -3,7 +3,7 @@ Say 'Hello' to Edgar, the lonely computer. A chatbot experiment inspired by the 
 
 Live demo: https://the-lonely-computer.herokuapp.com/index.html
 
-Please note: Edgar prefers a Chrome desktop environment.
+Please note: Edgar prefers a Chrome desktop environment. I didn't even know what JSON was when I made this so expect some glitches!
 
 # Screenshot
 ![A screenshot of the chatbot application](https://the-lonely-computer.herokuapp.com/images/preview.png)
