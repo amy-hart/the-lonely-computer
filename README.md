@@ -18,11 +18,7 @@ Here are a few questions you can ask Edgar to get the conversation flowing:
 * What's your favourite food?
 * What's your favourite song?
 
-# Author
-
-I created this chat bot for a contest held between colleagues at Human Software Ltd. 
-
 # Acknowledgements 
 
-This chatbot is powered by Dialogflow:
+I created this chat bot as competition entry for a contest held between colleagues at Human Software Ltd. This chatbot is powered by Dialogflow:
 https://dialogflow.com
