@@ -2,7 +2,7 @@ console.log('JS LOADED');
 
 // Authenticate with api and define variables
 var accessToken = 'b9852c6b3a48456293da37d0741f75be',
-	baseUrl = 'https://api.api.ai/v1/',
+	baseUrl = 'https://api.api.ai/v2/',
 	$speechInput,
 	$recordButton,
 	recognition,
